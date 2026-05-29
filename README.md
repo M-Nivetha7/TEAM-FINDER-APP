@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+<img width="402" height="750" alt="Screenshot 2026-05-29 at 1 03 23 PM" src="https://github.com/user-attachments/assets/7ddf6e60-da9e-44fe-845a-4fd94ff4bda6" />
 
 ```bash
 # List available emulators
