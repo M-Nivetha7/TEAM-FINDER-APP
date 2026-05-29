@@ -1,6 +1,6 @@
-# team_finder_fresh
-
-A new Flutter project.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=TEAM+FINDER+APP" />
+</p>
 
 ## Getting Started
 
